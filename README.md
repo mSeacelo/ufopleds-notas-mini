@@ -28,5 +28,7 @@ pratica/issues/            texto das issues da prática
 Cada integrante acrescenta uma linha no fim da tabela, no próprio pull request.
 
 | Integrante | Issue | Função |
-|---|---|---|
-| Professor (exemplo) | — | `media_ponderada` |
+| :--- | :---: | :---: |
+| Marcelo Henrique dos Santos | --- | ? |
+| Arthur Silva Santos | --- | ? |
+
