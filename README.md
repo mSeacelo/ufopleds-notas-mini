@@ -4,7 +4,7 @@ Projeto da **prática de DevOps** de CSI410 — Engenharia de Software II (UFOP,
 
 Funções pequenas sobre as notas de uma disciplina, cada uma com os seus testes. O código é simples de propósito: o objetivo da prática é o caminho do código até a `main` — issue, branch, commit, pull request, pipeline, revisão e merge. O roteiro completo é o PDF da tarefa da prática no Moodle; a lista de passos está em [PRATICA.md](PRATICA.md).
 
-> As regras de notas deste projeto são inventadas para a prática. Não são as da UFOP nem as da ES2.
+> As regras de notas deste projeto são invetadas para a prática. Não são as da UFOP nem as da ES2.
 
 ## Estrutura
 
