@@ -29,6 +29,6 @@ Cada integrante acrescenta uma linha no fim da tabela, no próprio pull request.
 
 | Integrante | Issue | Função |
 | :--- | :---: | :---: |
-| Marcelo Henrique dos Santos | --- | ? |
-| Arthur Silva Santos | --- | ? |
+| Marcelo Henrique dos Santos | #1 | situação |
+| Arthur Silva Santos | #3 | frequência |
 
