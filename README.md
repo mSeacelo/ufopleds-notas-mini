@@ -31,4 +31,3 @@ Cada integrante acrescenta uma linha no fim da tabela, no próprio pull request.
 | :--- | :---: | :---: |
 | Marcelo Henrique dos Santos | #1 | situação |
 | Arthur Silva Santos | #3 | frequência |
-
