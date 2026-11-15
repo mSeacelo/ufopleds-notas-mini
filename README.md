@@ -30,5 +30,5 @@ Cada integrante acrescenta uma linha no fim da tabela, no próprio pull request.
 | Integrante | Issue | Função |
 | :--- | :---: | :---: |
 | Marcelo Henrique dos Santos | --- | ? |
-| Arthur Silva Santos | --- | ? |
+| Arthur Silva Santos | #3 | `frequencia_ok` |
 
